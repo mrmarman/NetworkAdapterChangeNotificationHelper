@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.622,=C:\ARMAN.Study\Programming\YEDEK.01\_Default\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,=C:\ARMAN.Study\Programming\YEDEK.01\_Default\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,=C:\ARMAN.Study\Programming\YEDEK.01\_Default\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\ARMAN.Study\Programming\YEDEK.01\_Default\Unit1.pas=C:\ARMAN.Study\Programming\YEDEK.01\NetworkAdapter_Notification\Units\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.763,=C:\ARMAN.Study\Programming\YEDEK.01\_Default\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,C:\ARMAN.Study\Programming\YEDEK.01\_Default\Unit2.pas=C:\ARMAN.Study\Programming\YEDEK.01\NetworkAdapter_Notification\Units\NetwokAdapter_Helper.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,=C:\ARMAN.Study\Programming\YEDEK.01\_Default\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,C:\ARMAN.Study\Programming\YEDEK.01\_Default\Project1.dproj=C:\ARMAN.Study\Programming\YEDEK.01\NetworkAdapter_Notification\NetworkAdapterNotify.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\ARMAN.Study\Programming\YEDEK.01\_Default\Unit1.dfm=C:\ARMAN.Study\Programming\YEDEK.01\NetworkAdapter_Notification\Units\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
