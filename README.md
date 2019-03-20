@@ -1,3 +1,4 @@
 # NetworkAdapterChangeNotificationHelper
 Delphi Language Code Sample : Network adapter change notification with found adapter list parameter
-![My image](http://res.cloudinary.com/trt/image/upload/v1553024238/egrmympfglakpszpkmcn.png)
+
+![My image](https://github.com/mrmarman/NetworkAdapterChangeNotificationHelper/blob/master/egrmympfglakpszpkmcn.png)
